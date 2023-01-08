@@ -1,0 +1,30 @@
+segment_sources:
+  IBAB66458:
+    type: origin_type
+    relation: translation
+    base: 09A4
+    lang: en
+  IE08D2EFE:
+    type: origin_type
+    relation: translation
+    base: F479
+    lang: bo
+segment_pairs:
+  de6841197e324457802bdb12d68cfc01:
+    IBAB66458: d1928de7590a46de98e0d2ed3c13b988
+    IE08D2EFE: efb21377f0f44856898e51dde704d782
+  92b91649b3274813beac6852084d370f:
+    IBAB66458: 941d80e013414220a45e160c9fa73303
+    IE08D2EFE: 16f6a46cfb1042ac814d096897844b63
+  96eaafefdd724958bb8dd6be5ca96542:
+    IBAB66458: 6f6ec8e2a5944a3b86cdcd29e2c9ae2c
+    IE08D2EFE: b874caaa5da9475a9f1e13708dc3e961
+  1132522ceaae4d8b8b7e325a943d3fa8:
+    IBAB66458: a2fa681f4afa4f6aa3d7b8cc19897dea
+    IE08D2EFE: 96a20740d6494b57b0d49082fff141cb
+  85eb9e159d5c409999eb75d472ef12e6:
+    IBAB66458: 3b70cca51c884fc58a0556b325503e87
+    IE08D2EFE: be4265ef383e4028b041d505becdb260
+  536d892d66fd49fca7ed0d363f55157e:
+    IBAB66458: 0f4ea59c552e41cdaa0b9065c4323253
+    IE08D2EFE: 53bb6f95d96045e6917245f4346db739
